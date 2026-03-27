@@ -79,5 +79,5 @@
 
 ## 💻 실습 환경
 
-- OS: Windos 11  
+- OS: Windows 11  
 - Language: Python
